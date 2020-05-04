@@ -1,9 +1,9 @@
-var buttonRock, buttonPaper, buttonScissors;
-var argMoveId, argPlayerMove, argComputerMove, computerMove, playerMove, randomNumber, playerInput;
+let buttonRock, buttonPaper, buttonScissors;
+let argMoveId, argPlayerMove, argComputerMove, computerMove, playerMove, randomNumber, playerInput;
 
 //Describe this function...
  
-var argButtonName 
+let argButtonName 
 function buttonClicked(argButtonName) {
   clearMessages();
   console.log(argButtonName + ' został kliknięty');
