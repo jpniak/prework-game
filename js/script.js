@@ -1,4 +1,3 @@
-let buttonRock, buttonPaper, buttonScissors;
 let argMoveId, argPlayerMove, argComputerMove, computerMove, playerMove, randomNumber, playerInput;
 
 //Describe this function...
